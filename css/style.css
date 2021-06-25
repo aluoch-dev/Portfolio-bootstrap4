@@ -1,0 +1,157 @@
+html, body {
+    height: 100%;
+    width:100%;
+    font-family: 'Architects Daughter', cursive;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.navbar-brand h3 {
+    color: #94128A;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;    
+    font-size: 44px;
+}
+
+.navbar-collapse{
+    color: #94128A;  
+}
+
+.nav-link {
+    color: #94128A;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;    
+    font-size: 30px;
+}
+.nav-link:hover {
+    color: #94128A;   
+    font-size: 40px;
+}
+
+.about-section{
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+.intro{
+    font-family: 'Montserrat', sans-serif; 
+    color: #94128A;
+}
+
+.projects-btn{
+    color: #94128A;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;    
+    font-size: 20px;  
+}
+
+.projects-section{
+    color: #94128A;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;    
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.projects-section-details{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;    
+    font-size: 30px;
+}
+
+.designs-section{
+    color: #94128A;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;    
+    font-size: 40px;
+}
+
+.skills-section{
+    color: #94128A;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;    
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.skills-section-details{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;    
+    font-size: 25px;
+}
+
+.skills-icons{
+    width: 80px;
+    height:80px;
+}
+
+.carousel-inner img{
+    width:100%;
+    height:500px;
+}
+
+.btn-carousel{
+    background-color:#94128A;
+    color: white;
+
+}
+
+.carousel-tag{
+    color:#94128A;
+}
+.connect-socials{
+    color: #94128A;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;    
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.social a{
+    font-size: 16px;
+    padding: 48px;
+
+}
+
+.fa-whatsapp{
+    color: #075e54;
+}
+
+.fa-facebook{
+    color: #3b5998;
+}
+
+.fa-dribbble{
+    color: #ea4c89;
+}
+
+.fa-twitter{
+    color: #00acee;
+}
+
+.fa-instagram{
+    color: #3f729b;
+}
+
+.fa-linkedin{
+    color: #0077b5;
+}
+
+.fa-whatsapp:hover,
+.fa-facebook:hover,
+.fa-dribbble:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-linkedin:hover{
+    color: #94128A;;
+}
+
+footer{
+    width: 100%;
+    background-color:#f8f9fa;
+    font-family: 'Montserrat', sans-serif; 
+    text-align: center;
+    padding: 10px;
+}
